@@ -1,0 +1,23 @@
+{
+    "name": "spiderverse",
+    "version": "1.0.0",
+    "description": "Disenio de TDD",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node ./node_modules/.bin/jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LizethDamian/Dise-o_de_Software_con_TDD.git"
+    },
+    "author": "LizethDamian",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LizethDamian/Dise-o_de_Software_con_TDD/issues"
+    },
+    "homepage": "https://github.com/LizethDamian/Dise-o_de_Software_con_TDD#readme",
+    "devDependencies": {
+        "jest": "^28.1.0"
+    }
+}
